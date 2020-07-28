@@ -23,7 +23,7 @@ const MenuNavigator = createStackNavigator({
     }
 }
 );
-
+/** */
 class Main extends Component {
 
   render() {
